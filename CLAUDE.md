@@ -1,0 +1,1 @@
+/Users/tiffany/Desktop/skeleton-project/AGENTS.md
